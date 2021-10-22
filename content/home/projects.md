@@ -29,7 +29,7 @@ content:
     tag: '*'
   - name: Deep Learning
     tag: Deep Learning
-  - name: Other
+  - name: Inspection
     tag: Demo
 
 design:

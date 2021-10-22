@@ -75,7 +75,7 @@ email: ""
 highlight_name: true
 ---
 
-Jinglun Feng is an EE Ph.D. student advised by [Prof. Jizhong Xiao](https://ccny-ros-pkg.github.io/prof/jxiao.html) at [CCNY Robotics Lab](https://ccny-ros-pkg.github.io/), City College of New York. His research interests are in 3d vision, deep learning, object pose estimation, sensor fusion and intelligent inspection for robotics applications. 
+Jinglun Feng is an EE Ph.D. student advised by [Prof. Jizhong Xiao](https://ccny-ros-pkg.github.io/prof/jxiao.html) at CCNY Robotics Lab, City College of New York. His research interests are in 3d vision, deep learning, object pose estimation, sensor fusion and intelligent inspection for robotics applications. 
 
 Jinglun is currently an intern at [ABB](https://new.abb.com/products/robotics). Jinglun has focused on using rendered synthetic and real data to train object detector, predict object pose from visual sensors. Prior to joining ABB, he also interned at [GSSI](https://www.geophysical.com/) at 2019 and worked on robotic-based intelligent inspection with Ground-penetrating radar (GPR). He also servered as Adjunct Lecturer in CCNY EE department from 2019 to 2021.
 
