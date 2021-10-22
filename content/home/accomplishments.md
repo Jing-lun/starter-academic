@@ -4,13 +4,13 @@
 widget: accomplishments
 
 # This file represents a page section.
-headless: false
+headless: true
 
 # Order that this section appears on the page.
 weight: 50
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: 'Accomplish&shy;ments'
+title: 'Teachings'
 subtitle:
 
 # Date format
@@ -23,13 +23,13 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: https://www.coursera.org
-  date_end: ""
-  date_start: "2021-01-25"
-  description: ""
-  organization: Coursera
-  organization_url: https://www.coursera.org
-  title: Neural Networks and Deep Learning
+# - certificate_url: https://www.coursera.org
+- date_end: "2021-05-25"
+  date_start: "2019-08-27"
+  description: "Adjunct Lecturer"
+  # organization: Coursera
+  # organization_url: https://www.coursera.org
+  title: Computer Engineering Lab (EE425)
   url: ""
 - certificate_url: https://www.edx.org
   date_end: ""
